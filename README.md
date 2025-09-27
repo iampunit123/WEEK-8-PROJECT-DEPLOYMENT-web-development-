@@ -1,4 +1,4 @@
-# 🌍 safari Adventures - Travel Website
+# 🌍 Safari Adventures - Travel Website
 
 A modern, responsive tours and travels website with beautiful animations and interactive elements.
 
