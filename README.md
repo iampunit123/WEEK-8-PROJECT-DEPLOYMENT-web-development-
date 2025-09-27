@@ -1,4 +1,4 @@
-# 🌍 Wanderlust Adventures - Travel Website
+# 🌍 safari Adventures - Travel Website
 
 A modern, responsive tours and travels website with beautiful animations and interactive elements.
 
@@ -16,7 +16,7 @@ A modern, responsive tours and travels website with beautiful animations and int
 
 ## 🚀 Live Demo
 
-[View Live Website](https://your-domain.com) <!-- Replace with your actual domain -->
+[View Live Website]  https://safari-adventures.netlify.app/
 
 ## 📁 Project Structure
 
@@ -57,38 +57,9 @@ wanderlust-travel/
 6. **📞 Contact** - Contact form and information
 7. **🦶 Footer** - Links and newsletter signup
 
-## 🚀 Quick Start
 
-### Option 1: Simple Setup
-1. Download all files (`index.html`, `styles.css`, `script.js`)
-2. Open `index.html` in your browser
-3. That's it! The website is ready to use
 
-### Option 2: Local Development
-```bash
-# Clone or download the project files
-# Navigate to the project directory
-cd wanderlust-travel
 
-# Start a local server (Python 3)
-python -m http.server 8000
-
-# Or using Node.js
-npx http-server
-
-# Open http://localhost:8000 in your browser
-```
-
-## 📋 Customization Guide
-
-### Changing Colors
-Edit the CSS variables in `styles.css`:
-```css
-:root {
-    --primary: #YourColor;
-    --secondary: #YourColor;
-    --accent: #YourColor;
-}
 ```
 
 ## 🌐 Browser Support
@@ -102,19 +73,12 @@ Edit the CSS variables in `styles.css`:
 ## 📞 Support
 
 If you need help with customization or have questions:
-- 📧 Email: support@wanderlustadventures.com
+- 📧 Email: safariadventures.com
 - 🐛 Issues: Create a GitHub issue
 - 💬 Discussions: Start a discussion thread
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -143,6 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ If you like this project, please give it a star!
 
-[⬆ Back to Top](#-wanderlust-adventures---travel-website)
+[⬆ Back to Top](https://safari-adventures.netlify.app/)
 
 </div>
