@@ -60,8 +60,6 @@ wanderlust-travel/
 
 
 
-```
-
 ## 🌐 Browser Support
 
 - ✅ Chrome (latest)
